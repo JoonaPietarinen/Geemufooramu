@@ -1,5 +1,7 @@
 # Geemufooramu <sub><sub>(GameForum, japanese)
 
+(Tietokannat ja web-ohjelmointi kurssityö)
+
 Sovellus ei ainakaan vielä ole testattavissa fly.io osoitteessa
 
 Pelikeskustelusovellus <br/>
